@@ -1,3 +1,5 @@
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
+
 # Email Templates
 This repository provides elegant and minimal email templates for basic various purposes. These templates offer a clean and professional look. Each template is responsive and compatible with major email clients. Simply copy the HTML code and customize it to suit your needs. Enhance your email communication effortlessly with these stylish templates.
 
